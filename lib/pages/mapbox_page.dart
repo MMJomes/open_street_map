@@ -153,7 +153,7 @@ class _MapBoxPageState extends State<MapBoxPage> with TickerProviderStateMixin {
                                     Text(
                                       item.title ?? '',
                                       style: const TextStyle(
-                                        fontSize: 20,
+                                        fontSize: 16,
                                         fontWeight: FontWeight.bold,
                                       ),
                                     ),

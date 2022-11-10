@@ -20,7 +20,7 @@ final mapMarkers = [
   MapMarker(
       image: 'assets/images/cmpMarker.png',
       title: 'Alexander The Great Restaurant',
-      address: '8 Plender St, London NW1 0JT, United Kingdom',
+      address: '8 Plender St, United Kingdom',
       location: LatLng(51.5382123, -0.1882464),
       rating: 4),
   MapMarker(
